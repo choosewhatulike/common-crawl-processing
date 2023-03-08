@@ -1,0 +1,6 @@
+langdetect
+warcio
+goose3
+jieba
+bs4
+tqdm
